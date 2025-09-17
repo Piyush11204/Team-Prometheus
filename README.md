@@ -30,7 +30,8 @@ Traditional assessment methods fail to identify root causes of student performan
 
 ## 🔄 System Flow
 
-![System Flowchart](/flowchart (2).png)
+![System Flowchart](flowchart%20(2).png)
+
 
 ## 🛠️ Technical Stack
 
